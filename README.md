@@ -22,7 +22,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ## About Me
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [Mubashir Ahmed Siddiqui](https://www.github.com/mubashirsidiki)
 
-## [Project 1: Market Research Dashboard](https://github.com/mubashirsidiki/marketmindz-research-powerbi)
+## [Project 1: Market Research](https://github.com/mubashirsidiki/marketmindz-research-powerbi)
 
 Worked with a market research dataset, we will build a tool to evaluate the purchasing habits, campaign performance, and attributes of buyers for a fake retail company.
 
@@ -30,7 +30,15 @@ Worked with a market research dataset, we will build a tool to evaluate the purc
 
 ![market_research_dashboard]()
 
-## [Project 2: Austin Housing Insights Dashboard](https://github.com/mubashirsidiki/austin-housing-insights-powerbi)
+## [Project 2: Kraken Koffee Sales Infographics](https://github.com/mubashirsidiki/kraken-koffee-sales-powerbi)
+
+
+For this report, we I built a design-forward infographic to keep our Kraken Koffee team informed on how sales are progressing for 3 new Florida-based stores at the midpoint of 2023.
+
+### Preview
+![kraken-koffee-sales-powerbi]()
+
+## [Project 3: Austin Housing Insights](https://github.com/mubashirsidiki/austin-housing-insights-powerbi)
 
 Worked with a real estate dataset, we will build a tool to evaluate trends and drivers of house prices around Austin, Texas.
 
@@ -38,7 +46,7 @@ Worked with a real estate dataset, we will build a tool to evaluate trends and d
 
 ![austin_housing_insights_dashboard]()
 
-## [Project 3: HR Headcount Report Dashboard](https://github.com/mubashirsidiki/hr-headcount-report-powerbi)
+## [Project 4: HR Headcount Report](https://github.com/mubashirsidiki/hr-headcount-report-powerbi)
 
 Worked with a fake employee dataset, we will build an HR report with some common employee metrics like retention, turnover, and headcount.
 
@@ -47,13 +55,7 @@ Worked with a fake employee dataset, we will build an HR report with some common
 ![hr_headcount_report_dashboard]()
 
 
-## [Project 4: Kraken Koffee Sales Dashboard](https://github.com/mubashirsidiki/kraken-koffee-sales-powerbi)
 
-
-For this report, we I built a design-forward infographic to keep our Kraken Koffee team informed on how sales are progressing for 3 new Florida-based stores at the midpoint of 2023.
-
-### Preview
-![kraken-koffee-sales-powerbi]()
 
 
 ## Contact Information
