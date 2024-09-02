@@ -28,7 +28,8 @@ Worked with a market research dataset, we will build a tool to evaluate the purc
 
 ## Preview
 
-![market_research_dashboard]()
+[market_research_dashboard](https://github.com/user-attachments/assets/5c81dba4-804e-4c8f-9b20-ac46bb2c7b3c)
+
 
 ## [Project 2: Kraken Koffee Sales Infographics](https://github.com/mubashirsidiki/kraken-koffee-sales-powerbi)
 
@@ -36,7 +37,8 @@ Worked with a market research dataset, we will build a tool to evaluate the purc
 For this report, we I built a design-forward infographic to keep our Kraken Koffee team informed on how sales are progressing for 3 new Florida-based stores at the midpoint of 2023.
 
 ### Preview
-![kraken-koffee-sales-powerbi]()
+[kraken-koffee-sales-powerbi](https://github.com/user-attachments/assets/1a41a7bc-f200-4b01-b8ec-a975ab554e28)
+
 
 ## [Project 3: Austin Housing Insights](https://github.com/mubashirsidiki/austin-housing-insights-powerbi)
 
@@ -44,7 +46,8 @@ Worked with a real estate dataset, we will build a tool to evaluate trends and d
 
 ## Preview
 
-![austin_housing_insights_dashboard]()
+[austin_housing_insights_dashboard](https://github.com/user-attachments/assets/cb8c98fb-bfa0-4c51-bbaf-c1045328d8a0)
+
 
 ## [Project 4: HR Headcount Report](https://github.com/mubashirsidiki/hr-headcount-report-powerbi)
 
@@ -52,10 +55,16 @@ Worked with a fake employee dataset, we will build an HR report with some common
 
 ### Preview
 
-![hr_headcount_report_dashboard]()
+[hr_headcount_report_dashboard](https://github.com/user-attachments/assets/afbdf9ce-014b-4213-b566-aadd68f53ffb)
 
 
+## [Project 5: Hotel Insights Dashboard](https://github.com/mubashirsidiki/hotel-insights-dashboard-powerbi)
 
+Worked with hotel data from 2015-2017, focusing on Resort hotels in summer 2016. Analyzed cancellation rates, average daily rates, and revenue comparisons.
+
+### Preview
+
+[hotel-insights-dashboard](https://github.com/user-attachments/assets/3b8d62ed-481d-49f0-bc1a-da6ee070bf49)
 
 
 ## Contact Information
@@ -65,17 +74,14 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 Thank you for visiting my Power BI Portfolio! I hope you find my projects informative and insightful.
 
 
-
 ## Author
 - [<ins><b>Mubashir Ahmed Siddiqui</b></ins>](https://www.github.com/mubashirsidiki)
 - <b>[LinkedIn](https://www.linkedin.com/in/mubashirsidiki/)</b>
 - <b>[Medium](https://medium.com/@mubashirsidiki)</b> 
 - <b>[Kaggle](https://www.kaggle.com/mubashirsidiki)</b> 
 
+## Credits
+This project would not have been possible without the support of my friends and the valuable resources available online. Thank you all!
   
 ## License
 All PBIX files along with relevant materials are publicly available in each respective repository of the project. Feel free to use them for educational purposes.
-
-Thank you.
-
-
