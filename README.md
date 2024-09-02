@@ -24,7 +24,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 
 ## [Project 1: Market Research](https://github.com/mubashirsidiki/marketmindz-research-powerbi)
 
-Worked with a market research dataset, we will build a tool to evaluate the purchasing habits, campaign performance, and attributes of buyers for a fake retail company.
+Worked with a market research dataset, we will build a tool to evaluate the purchasing habits, campaign performance, and attributes of buyers for a retail company.
 
 ## Preview
 
@@ -51,7 +51,7 @@ Worked with a real estate dataset, we will build a tool to evaluate trends and d
 
 ## [Project 4: HR Headcount Report](https://github.com/mubashirsidiki/hr-headcount-report-powerbi)
 
-Worked with a fake employee dataset, we will build an HR report with some common employee metrics like retention, turnover, and headcount.
+Worked with a employee dataset, we will build an HR report with some common employee metrics like retention, turnover, and headcount.
 
 ### Preview
 
