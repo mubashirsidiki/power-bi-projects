@@ -34,7 +34,7 @@ Worked with a market research dataset, we will build a tool to evaluate the purc
 ## [Project 2: Kraken Koffee Sales Infographics](https://github.com/mubashirsidiki/kraken-koffee-sales-powerbi)
 
 
-Worked with sales data to create a design-forward infographic, updating the Kraken Koffee team on the performance of three new Florida stores at the midpoint of 2023.
+Worked with sales data to create a design-forward infographic, updating the Kraken Koffee team on the performance of three new Florida stores at the midpoint of year.
 
 ### Preview
 [kraken-koffee-sales-powerbi](https://github.com/user-attachments/assets/1a41a7bc-f200-4b01-b8ec-a975ab554e28)
@@ -60,7 +60,7 @@ Worked with a employee dataset, we will build an HR report with some common empl
 
 ## [Project 5: Hotel Insights Dashboard](https://github.com/mubashirsidiki/hotel-insights-dashboard-powerbi)
 
-Worked with hotel data from 2015-2017, focusing on Resort hotels in summer 2016. Analyzed cancellation rates, average daily rates, and revenue comparisons.
+Worked with hotel data, focusing on Resort hotels in summer. Analyzed cancellation rates, average daily rates, and revenue comparisons.
 
 ### Preview
 
