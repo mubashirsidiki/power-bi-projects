@@ -34,7 +34,7 @@ Worked with a market research dataset, we will build a tool to evaluate the purc
 ## [Project 2: Kraken Koffee Sales Infographics](https://github.com/mubashirsidiki/kraken-koffee-sales-powerbi)
 
 
-For this report, we I built a design-forward infographic to keep our Kraken Koffee team informed on how sales are progressing for 3 new Florida-based stores at the midpoint of 2023.
+Worked with sales data to create a design-forward infographic, updating the Kraken Koffee team on the performance of three new Florida stores at the midpoint of 2023.
 
 ### Preview
 [kraken-koffee-sales-powerbi](https://github.com/user-attachments/assets/1a41a7bc-f200-4b01-b8ec-a975ab554e28)
